@@ -1,6 +1,7 @@
 # Guess Number Game!
 
-This Python template lets you get started quickly with a simple one-page playground.
+With random module we can easily play Guess The Number Game. Here we for using For loop syntax with simple if-else.
+Happy Guessing!
 
 ```python runnable
 print('Hello World!')
